@@ -11,6 +11,9 @@ public class Talkative implements  Runnable{
 
     @Override
     public void run() {
-        for(int i = 1; i <= 100; i++) System.out.println("Thread " +  n + ": " + i);
+        for(int i = 1; i <= 100; i++){
+            System.out.println("Thread " + n + ": " + i);
+            System.out.println("Thead " + n + " finished");
+        };
     }
 }
