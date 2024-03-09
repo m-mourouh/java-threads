@@ -7,7 +7,6 @@ The messages from threads may appear in a random order due to the concurrent nat
 
 ![image](https://github.com/m-mourouh/java-threads/assets/60442896/d4bf54b5-6bdc-44f5-a836-ad6f8778c369)
 
-![image](https://github.com/m-mourouh/java-threads/assets/60442896/82107a36-0650-48ec-b677-5263d8f9b444)
 
 
 ## Exercise 2: Using Pool Threads (ExecutorService)
