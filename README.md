@@ -9,4 +9,4 @@ The messages from threads may appear in a random order due to the concurrent nat
 
 ## Exercise 2: Using Pool Threads (ExecutorService)
 
-![Screenshot 2024-03-09 184443.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2FScreenshot%202024-03-09%20184443.png)
+![Screenshot 2024-03-09 184443](https://github.com/m-mourouh/java-threads/assets/60442896/1e29d90d-49e7-4243-be45-732285785ad3)
