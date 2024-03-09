@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Java-17-orange)
 # Java - Multithreading
 ![image](https://github.com/m-mourouh/java-threads/assets/60442896/7235915b-537b-49d4-abc6-f24e0cea7579)
 
